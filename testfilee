@@ -1,0 +1,33 @@
+{
+    "Name": "visibleeusername",
+    "Description": "",
+    "ConnectorInfo": {
+        "Tags": ["toggl track"],
+        "Template": {
+            "Method":{ 
+                "value":"get",
+                "isHidden":false
+            },
+            "AuthenticationType": {
+                "value": "basic",
+                "isHidden":false
+            },
+            "Username":{
+                "value":"efce24e928f870b71d012d340a1484ec",
+                "ishidden":false
+            },
+            "Password":{
+                "value":"api_token",
+                "ishidden": false
+            },
+            "DataFormat": {
+                "value": "json",
+                "isHidden": false
+            },
+            "URL": {
+                "value":"https://api.track.toggl.com/api/v8/me",
+                "isHidden" : false
+            }
+        }
+    }
+}
