@@ -1,0 +1,45 @@
+{
+    "response": {
+        "success": {
+            "SlopeOfSSCByWBT": 1,
+            "Id": "Plant1.Unit1",
+            "SSC4": 8,
+            "SSCUnit": "t/hr",
+            "WBT3": 8.3,
+            "SSC2": 10,
+            "FirstDateEnd": "12/14/2021",
+            "WBT4": 8,
+            "WBTUnit": "C",
+            "MainSteamFlow": 211,
+            "MaxPowerGeneration": 600000,
+            "TurbineSteamChestPressure": 110,
+            "DesignedSteamFlow": 140,
+            "RatedPower": 20000,
+            "Month": 30,
+            "SSC3": 9,
+            "WBT2": 8.1,
+            "SecondDateEnd": "1/14/2021",
+            "coeff": {
+                "p_a_1": 0.8147239263803681,
+                "a4": 0.123,
+                "p_b_1": 0.7332515337423312,
+                "b": 9.84288485,
+                "a3": -0.0000010855,
+                "a2": 0.0001261,
+                "p_b_2": 0.3666257668711656,
+                "p_a_2": 0.40736196319018403,
+                "a1": 0.2345
+            },
+            "ThirdDateStart": "1/16/2021",
+            "WBT1": 8.2,
+            "RatedPowerUnit": "(MW)",
+            "FirstDateStart": "11/14/2021",
+            "SecondDateStart": "12/15/2020",
+            "SSCRange": 10,
+            "SSC1": 9,
+            "ThirdDateEnd": "2/9/2021",
+            "Sigma": 3,
+            "DesignedValue": 140
+        }
+    }
+}
