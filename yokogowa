@@ -37,8 +37,8 @@
             "SecondDateStart": "12/15/2020",
             "SSCRange": 10,
             "SSC1": 9,
-             "Sigma": 3,
-            "ThirdDateEnd": "2/9/2021"
+            "ThirdDateEnd": "2/9/2021",
+            "Sigma": 3,
             "DesignedValue": 140
         }
     }
