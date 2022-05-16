@@ -11,6 +11,7 @@
             "WBT4": 8,
             "WBTUnit": "C",
             "MainSteamFlow": 211,
+            "MaxPowerGeneration": 600000,
             "TurbineSteamChestPressure": 110,
             "DesignedSteamFlow": 140,
             "RatedPower": 20000,
@@ -37,6 +38,7 @@
             "SSCRange": 10,
             "SSC1": 9,
             "ThirdDateEnd": "2/9/2021",
+            "Sigma": 3,
             "DesignedValue": 140
         }
     }
