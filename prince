@@ -3,10 +3,15 @@
         "success": {
             "SlopeOfSSCByWBT": 1,
             "Id": "Plant1.Unit1",
+            "SSC4": 8,
             "SSCUnit": "t/hr",
-            "FirstDateEnd": "12/14/2021",            
+            "WBT3": 8.3,
+            "SSC2": 10,
+            "FirstDateEnd": "12/14/2021",
+            "WBT4": 8,
             "WBTUnit": "C",
             "MainSteamFlow": 211,
+            "MaxPowerGeneration": 600000,
             "TurbineSteamChestPressure": 110,
             "DesignedSteamFlow": 140,
             "RatedPower": 20000,
@@ -32,8 +37,9 @@
             "SecondDateStart": "12/15/2020",
             "SSCRange": 10,
             "SSC1": 9,
-            "ThirdDateEnd": "2/9/2021"
-            
+            "ThirdDateEnd": "2/9/2021",
+            "Sigma": 3,
+            "DesignedValue": 140
         }
     }
 }
