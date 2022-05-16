@@ -3,7 +3,6 @@
         "success": {
             "SlopeOfSSCByWBT": 1,
             "Id": "Plant1.Unit1",
-            "SSC4": 8,
             "SSCUnit": "t/hr",
             "WBT3": 8.3,
             "SSC2": 10,
