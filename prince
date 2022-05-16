@@ -7,7 +7,6 @@
             "FirstDateEnd": "12/14/2021",            
             "WBTUnit": "C",
             "MainSteamFlow": 211,
-            "MaxPowerGeneration": 600000,
             "TurbineSteamChestPressure": 110,
             "DesignedSteamFlow": 140,
             "RatedPower": 20000,
