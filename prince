@@ -40,6 +40,7 @@
             "ThirdDateEnd": "2/9/2021",
             "DesignedValue": 140,
              "Sigma": 3
+             "Sigma2": 3
         }
     }
 }
