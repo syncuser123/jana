@@ -4,7 +4,6 @@
             "SlopeOfSSCByWBT": 1,
             "Id": "Plant1.Unit1",
             "SSCUnit": "t/hr",
-            "WBT3": 8.3,
             "SSC2": 10,
             "FirstDateEnd": "12/14/2021",
             "WBT4": 8,
